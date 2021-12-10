@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: gray;
+}
+
+img{
+    width: 80%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container h1{
+    font-size: 20px;
+}
+
+.c-img{
+    width: 58%;
+}
+
+
+.product{
+    padding: 10px 0;
+    background-color: white;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(151,151,151,0.51); 
+    box-shadow: 5px 5px 15px 5px rgba(151,151,151,0.51);
+}
+.t-shirt p{
+    color: gray;
+}
+
+.t-shirt h4{
+    font-size: 18px;
+}
+
+/*div p, h4{
+    text-align: center;
+}*/
+
+
+
